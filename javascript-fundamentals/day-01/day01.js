@@ -22,3 +22,17 @@ console.log("Test Case Name:", testCaseName);
 console.log("Username:", username);
 console.log("Password:", password);
 console.log("Test Passed:", testPassed);
+
+// JavaScript Data Types Practice
+
+const browserName = "Chrome";
+const browserVersion = 154;
+const isLoggedIn = true;
+let errorMessage;
+const testData = null;
+
+console.log("Browser:", browserName);
+console.log("Browser Version:", browserVersion);
+console.log("Logged In:", isLoggedIn);
+console.log("Error Message:", errorMessage);
+console.log("Test Data:", testData);
