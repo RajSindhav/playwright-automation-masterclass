@@ -1,12 +1,17 @@
 # Day 01 — JavaScript Basics
 
-This folder contains the Day 01 learning material and hands-on practice.
-
 ## Status
-🟡 In Progress
+✅ **Completed**
 
 ## Topics
 - `console.log()`
 - `let` and `const`
 - Basic data types
 - QA test data
+- Hands-on Node.js execution
+
+## Checkpoint
+**5/5**
+
+## Completion
+Day 01 was completed after the hands-on exercises and checkpoint were successfully finished.
