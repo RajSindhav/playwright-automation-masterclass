@@ -13,7 +13,8 @@ See [progress/learning-roadmap.md](progress/learning-roadmap.md).
 
 ## 📈 Current Progress
 - Phase: **JavaScript Fundamentals**
-- Lesson: **Day 01 — JavaScript Basics**
+- Completed: **Day 01 — JavaScript Basics** ✅
+- Current lesson: **Day 02 — Operators and Expressions**
 - Status: 🟡 **In Progress**
 
 Daily progress is tracked in [progress/daily-progress.md](progress/daily-progress.md).
