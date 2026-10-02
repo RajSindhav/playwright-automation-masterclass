@@ -17,11 +17,13 @@
 - ✅ Practiced five basic JavaScript data types
 - ✅ Ran `day01.js` successfully with Node.js
 
+### Checkpoint
+- ✅ Day 01 checkpoint: **5/5**
+
 ### Status
-🟡 **In Progress**
+✅ **Completed**
 
-### Pending
-- Day 01 checkpoint quiz
-- Final Day 01 review
+---
 
-> Lesson status will change to ✅ Completed after the checkpoint and final review are finished.
+## Next
+**Day 02 — Operators and Expressions**
