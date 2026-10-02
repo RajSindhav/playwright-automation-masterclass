@@ -10,11 +10,18 @@
 - Basic data types: String, Number, Boolean, undefined, null
 - QA-oriented test-data examples
 
+### Completed Hands-on
+- ✅ Created QA test case variables
+- ✅ Used `const` and `let`
+- ✅ Printed QA test data with `console.log()`
+- ✅ Practiced five basic JavaScript data types
+- ✅ Ran `day01.js` successfully with Node.js
+
 ### Status
 🟡 **In Progress**
 
 ### Pending
-- Day 01 hands-on assignment
 - Day 01 checkpoint quiz
+- Final Day 01 review
 
-> Lesson status will change to ✅ Completed after the assignment and checkpoint are demonstrated.
+> Lesson status will change to ✅ Completed after the checkpoint and final review are finished.
