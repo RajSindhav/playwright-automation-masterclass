@@ -10,6 +10,9 @@
 - QA test data
 - Hands-on Node.js execution
 
+## Revision Notes
+📘 [Day 01 Revision Notes](day01-notes.md)
+
 ## Checkpoint
 **5/5**
 
