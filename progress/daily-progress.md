@@ -25,5 +25,20 @@
 
 ---
 
-## Next
-**Day 02 — Operators and Expressions**
+## 2026-10-05 — Day 02
+**Topic:** JavaScript operators and expressions
+
+### Goals
+- Understand arithmetic operators
+- Understand comparison operators
+- Understand logical operators
+- Use operators in QA examples
+- Learn the difference between assignment and comparison
+
+### Status
+🟡 **In Progress**
+
+### Pending
+- Day 02 hands-on exercises
+- Day 02 checkpoint
+- Day 02 revision notes
