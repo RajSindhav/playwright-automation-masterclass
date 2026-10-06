@@ -28,17 +28,26 @@
 ## 2026-10-05 — Day 02
 **Topic:** JavaScript operators and expressions
 
+### Completed So Far
+- ✅ Arithmetic operators: `+`, `-`, `*`, `/`, `%`
+- ✅ Practiced arithmetic using QA test-data examples
+- ✅ Comparison operators: `>` and `<`
+- ✅ Learned variable redeclaration error and how to avoid duplicate declarations
+- ✅ Successfully executed `day02.js` with Node.js
+
 ### Goals
-- Understand arithmetic operators
-- Understand comparison operators
-- Understand logical operators
-- Use operators in QA examples
-- Learn the difference between assignment and comparison
+- Understand comparison operators: `>=`, `<=`, `===`, `!==`
+- Understand logical operators: `&&`, `||`, `!`
+- Understand expressions and assignment vs comparison
+- Apply operators to QA examples
 
 ### Status
 🟡 **In Progress**
 
 ### Pending
+- `>=` and `<=`
+- `===` and `!==`
+- Logical operators
 - Day 02 hands-on exercises
 - Day 02 checkpoint
-- Day 02 revision notes
+- Day 02 detailed revision notes
